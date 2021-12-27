@@ -7,3 +7,6 @@ keys = {
 }
 
 TOKEN = "5097351668:AAHlr_IkDdw1oAXsVseSGt5ASelSV1I8EVs"
+
+
+#чтобы найти криптобота в телеграмме введите в поиск ник "@CryptoMaksimovBot"
